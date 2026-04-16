@@ -7,7 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "child_process": "^1.0.2"
+    "express": "^4.18.2"
   }
 }
